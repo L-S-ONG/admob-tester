@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">I Am A Singer 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9865430040715326/3833254696</string>
+    <string name="title_activity_ad_fragment">AdFragment</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="playerfragment_text">This is a YouTubePlayerFragment!</string>
+
+
+
+</resources>
